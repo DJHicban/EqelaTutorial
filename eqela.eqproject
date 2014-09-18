@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Tutorial1
+#
+
+projectname: Tutorial1
+vendorid: com.hicban
+mainmodule: com.hicban.tutorial1
